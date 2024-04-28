@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captainlegoo&show_icons=true&locale=en&layout=compact" alt="captainlegoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captainlegoo&show_icons=true&locale=en" alt="captainlegoo" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captainlegoo&" alt="captainlegoo" /></p>
