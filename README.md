@@ -15,6 +15,6 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/captainLegoo/HandsOn-RPC-framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=HandsOn-RPC-framework&show_owner=true&theme=shadow_blue" />
 </a>
