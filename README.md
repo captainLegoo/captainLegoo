@@ -6,10 +6,10 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&count_private=true&theme=ambient_gradient&include_all_commits=true" />
 </a>
 
