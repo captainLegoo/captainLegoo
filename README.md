@@ -16,4 +16,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&count_private=true&theme=ambient_gradient&include_all_commits=true" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=HandsOn-RPC-framework&show_owner=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=HandsOn-RPC-framework&show_owner=true&theme=shadow_blue)]
