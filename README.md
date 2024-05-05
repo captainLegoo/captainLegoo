@@ -6,10 +6,10 @@
 
 <br>
 
-<a href="">
+<a href="https://github.com/captainLegoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo" />
 </a>
-<a href="">
+<a href="https://github.com/captainLegoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&count_private=true&theme=ambient_gradient&include_all_commits=true" />
 </a>
 
