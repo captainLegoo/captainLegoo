@@ -16,5 +16,5 @@
 <br>
 
 <a href="https://github.com/captainLegoo/HandsOn-RPC-framework">
-  <img align="center" src="https://github-readme-stats-three-rho-10.vercel.app/api/pin/?username=captainLegoo&repo=HandsOn-RPC-framework&show_owner=true&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats-three-rho-10.vercel.app/api/pin/?username=captainLegoo&repo=HandsOn-RPC-framework&show_owner=false&theme=shadow_blue" />
 </a>
