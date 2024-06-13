@@ -1,10 +1,10 @@
-# 💻 Kyle's GitHub Profile
+# 💻 CaptainLegoo's GitHub Profile
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=CaptainLegoo+-+Full+Stack+Developer)
 
 ## 👋 Hello, World!
 
-I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant solutions and a love for technology. I thrive on creating efficient, scalable web applications and continuously learning new technologies to keep myself updated in this ever-evolving field.
+I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting elegant solutions and a love for technology. I thrive on creating efficient, scalable web applications and continuously learning new technologies to keep myself updated in this ever-evolving field.
 
 ### 🛠️ Tech Stack
 
@@ -36,17 +36,25 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 📈 GitHub Stats
 
-![CaptainLegoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainLegoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&layout=compact&theme=radical)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&layout=compact&theme=graywhite" />
+</div>
 
 ### 🌟 Top Repositories
 
-[![dRpc](https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=dRpc&theme=radical)](https://github.com/captainLegoo/dRpc)
-[![c2c_carpool](https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=c2c_carpool&theme=radical)](https://github.com/captainLegoo/c2c_carpool)
+<div align="center">
+  <a href="https://github.com/captainLegoo/dRpc">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=dRpc&theme=graywhite" />
+  </a>
+  <a href="https://github.com/captainLegoo/c2c_carpool">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=c2c_carpool&theme=graywhite" />
+  </a>
+</div>
 
 ### 📚 Education
 
-**Advanced Computer Science Master's Degree**
+**Advanced Computer Science Master's Degree**  
 *University of Sheffield*
 
 ### 📫 Contact Me
