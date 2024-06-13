@@ -12,9 +12,3 @@
 <a href="https://github.com/captainLegoo">
   <img align="center" src="https://github-readme-stats-three-rho-10.vercel.app/api?username=captainLegoo&count_private=true&theme=ambient_gradient&include_all_commits=true&show_icons=true" />
 </a>
-
-<br>
-
-<a href="https://github.com/captainLegoo/HandsOn-RPC-framework">
-  <img align="center" src="https://github-readme-stats-three-rho-10.vercel.app/api/pin/?username=captainLegoo&repo=HandsOn-RPC-framework&show_owner=false&theme=shadow_blue" />
-</a>
