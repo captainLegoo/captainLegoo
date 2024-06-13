@@ -45,10 +45,10 @@ I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting el
 
 <div align="center">
   <a href="https://github.com/captainLegoo/dRpc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=dRpc&theme=graywhite" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=dRpc&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
   </a>
   <a href="https://github.com/captainLegoo/c2c_carpool">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=c2c_carpool&theme=graywhite" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=c2c_carpool&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
   </a>
 </div>
 
