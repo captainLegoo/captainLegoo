@@ -1,14 +1,63 @@
-<h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">Continuous efforts to become an excellent Java development engineer</h3>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+# 💻 Kyle's GitHub Profile
 
-<br>
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=CaptainLegoo+-+Full+Stack+Developer)
 
-<a href="https://github.com/captainLegoo">
-  <img align="center" src="https://github-readme-stats-three-rho-10.vercel.app/api/top-langs/?username=captainLegoo" />
-</a>
-<a href="https://github.com/captainLegoo">
-  <img align="center" src="https://github-readme-stats-three-rho-10.vercel.app/api?username=captainLegoo&count_private=true&theme=ambient_gradient&include_all_commits=true&show_icons=true" />
-</a>
+## 👋 Hello, World!
+
+I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant solutions and a love for technology. I thrive on creating efficient, scalable web applications and continuously learning new technologies to keep myself updated in this ever-evolving field.
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
+![Nacos](https://img.shields.io/badge/-Nacos-009688?style=flat-square&logo=nacos&logoColor=white)
+![Eureka](https://img.shields.io/badge/-Eureka-6DB33F?style=flat-square&logo=eureka&logoColor=white)
+![Dubbo](https://img.shields.io/badge/-Dubbo-6DB33F?style=flat-square&logo=dubbo&logoColor=white)
+![RPC](https://img.shields.io/badge/-RPC-6DB33F?style=flat-square&logo=rpc&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/-OpenFeign-6DB33F?style=flat-square&logo=openfeign&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Zookeeper](https://img.shields.io/badge/-Zookeeper-8B8B8B?style=flat-square&logo=zookeeper&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### 📈 GitHub Stats
+
+![CaptainLegoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainLegoo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&layout=compact&theme=radical)
+
+### 🌟 Top Repositories
+
+[![dRpc](https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=dRpc&theme=radical)](https://github.com/captainLegoo/dRpc)
+[![c2c_carpool](https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=c2c_carpool&theme=radical)](https://github.com/captainLegoo/c2c_carpool)
+
+### 📚 Education
+
+**Advanced Computer Science Master's Degree**
+*University of Sheffield*
+
+### 📫 Contact Me
+
+- **Email**: cy.deng.cn@gmail.com
+- **LinkedIn**: [Chunyuan Kyle](https://www.linkedin.com/in/chunyuan-kyle/)
+
+### 🌐 Let's Connect!
+
+Feel free to reach out to me for collaboration or just a friendly chat about technology and development. I'm always open to new opportunities and connections!
+
+---
+
+**⭐️ From [CaptainLegoo](https://github.com/captainLegoo)**
