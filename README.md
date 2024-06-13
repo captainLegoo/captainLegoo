@@ -1,8 +1,5 @@
-# 💻 CaptainLegoo's GitHub Profile
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=CaptainLegoo+-+Full+Stack+Developer)
-
-## 👋 Hello, World!
 
 I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting elegant solutions and a love for technology. I thrive on creating efficient, scalable web applications and continuously learning new technologies to keep myself updated in this ever-evolving field.
 
