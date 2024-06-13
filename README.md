@@ -33,9 +33,10 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 📈 GitHub Stats
 
-
-  <img align="" height="150em" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,D783FF" />
-  <img align="" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&layout=compact&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF" />
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,D783FF" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&layout=compact&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF" />
+</div>
 
 ### 🔄 GitHub Activity Graph
 
