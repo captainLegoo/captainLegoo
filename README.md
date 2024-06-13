@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting elegant solutions and a love for technology. I thrive on creating efficient, scalable web applications and continuously learning new technologies to keep myself updated in this ever-evolving field.
+I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant solutions and a love for technology. I thrive on creating efficient, scalable web applications and continuously learning new technologies to keep myself updated in this ever-evolving field.
 
 ### 🛠️ Tech Stack
 
@@ -41,11 +41,6 @@ I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting el
 ### 🔄 GitHub Activity Graph
 
 [![CaptainLegoo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captainLegoo&custom_title=CaptainLegoo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/captainLegoo)
-
-### 📚 Education
-
-**Advanced Computer Science Master's Degree**  
-*University of Sheffield*
 
 ### 📫 Contact Me
 
