@@ -37,8 +37,8 @@ I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting el
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=captainLegoo&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&layout=compact&theme=graywhite" />
 </div>
 
 ### 🌟 Top Repositories
@@ -51,6 +51,10 @@ I'm CaptainLegoo, a passionate Full Stack Developer with a knack for crafting el
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=captainLegoo&repo=c2c_carpool&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
   </a>
 </div>
+
+### 🔄 GitHub Activity Graph
+
+[![CaptainLegoo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=captainLegoo&custom_title=CaptainLegoo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/captainLegoo)
 
 ### 📚 Education
 
