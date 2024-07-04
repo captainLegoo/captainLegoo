@@ -46,6 +46,14 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&hide_title=false&hide_border=true&layout=compact&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF" />
 </div>
 
+### 💼 Business Projects
+
+- [c2c_carpool](https://github.com/captainLegoo/c2c_carpool)
+
+### 🧩 Component Projects
+
+- [dRpc](https://github.com/captainLegoo/dRpc)
+
 ### 🔄 GitHub Activity Graph
 
 <div align="center">
