@@ -53,7 +53,7 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 🧩 Component Projects
 
-- [Monitoring System for Business Process Perspective]() (Developing)
+- Monitoring System for Business Process Perspective (Developing)
 - [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool)
 - [dRpc](https://github.com/captainLegoo/dRpc)
 
