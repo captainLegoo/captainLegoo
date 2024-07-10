@@ -50,11 +50,13 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 - [c2c_carpool](https://github.com/captainLegoo/c2c_carpool)
 - [Lottery](https://github.com/captainLegoo/Lottery)
+- News publishing platform
 
 ### 🧩 Component Projects
 
-- Monitoring System for Business Process Perspective (Developing)
+- Monitoring System for Business Process Perspective
 - [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool)
+- Distributed storage system
 - [dRpc](https://github.com/captainLegoo/dRpc)
 
 ### 🔄 GitHub Activity Graph
