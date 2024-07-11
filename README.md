@@ -54,10 +54,10 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 🧩 Component Projects
 
-- Monitoring System for Business Process Perspective
-- [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool)
-- Distributed storage system
-- [dRpc](https://github.com/captainLegoo/dRpc)
+- Monitoring System for Business Process Perspective (Redis, MySQL)
+- [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool) (guava)
+- Distributed storage system (MongoDB)
+- [dRpc](https://github.com/captainLegoo/dRpc) (Zookeeper, Redis)
 
 ### 🔄 GitHub Activity Graph
 
