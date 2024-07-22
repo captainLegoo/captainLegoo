@@ -55,6 +55,7 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 🧩 Component Projects
 
+- Open AI Code Review (Development Stage)
 - Monitoring System for Business Process Perspective (Redis, MySQL)
 - [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool) (guava)
 - Distributed storage system (MongoDB)
