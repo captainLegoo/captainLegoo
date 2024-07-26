@@ -49,8 +49,8 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 💼 Business Projects
 
-- [c2c_carpool](https://github.com/captainLegoo/c2c_carpool)
-- [Lottery](https://github.com/captainLegoo/Lottery)
+- c2c_carpool
+- Lottery
 - News publishing platform
 
 ### 🧩 Component Projects
