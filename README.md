@@ -49,17 +49,16 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 
 ### 💼 Business Projects
 
-- c2c_carpool
-- Lottery
+- Electric Vehicle Charging Service Platform
 - News publishing platform
 
 ### 🧩 Component Projects
 
-- Open AI Code Review (Development Stage)
-- Monitoring System for Business Process Perspective (Redis, MySQL)
-- [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool) (guava)
-- Distributed storage system (MongoDB)
-- [dRpc](https://github.com/captainLegoo/dRpc) (Zookeeper, Redis)
+- Open AI Code Review
+- Monitoring System for Business Process Perspective
+- Dynamic Thread Pool
+- Distributed storage system
+- dRpc
 
 ### 🔄 GitHub Activity Graph
 
@@ -71,7 +70,6 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 ### 📫 Contact Me
 
 - **Email**: cy.deng.cn@gmail.com
-- **LinkedIn**: [Chunyuan Kyle](https://www.linkedin.com/in/chunyuan-kyle/)
 
 ### 🌐 Let's Connect!
 
