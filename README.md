@@ -48,21 +48,11 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 </div>
 
 ### 💼 Business Projects
-
 - c2c_carpool
 - Lottery
 - News publishing platform
 
 ### 🧩 Component Projects
-
-- Open AI Code Review (Development Stage)
-- Monitoring System for Business Process Perspective (Redis, MySQL)
-- [Dynamic Thread Pool](https://github.com/captainLegoo/dynamic_thread_pool) (guava)
-- Distributed storage system (MongoDB)
-- [dRpc](https://github.com/captainLegoo/dRpc) (Zookeeper, Redis)
-
-### 🧩 Component Projects
-
 - Open AI Code Review
 - Monitoring System for Business Process Perspective
 - Dynamic Thread Pool
