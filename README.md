@@ -69,6 +69,7 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 ### 📫 Contact Me
 
 - **Email**: cy.deng.cn@gmail.com
+- **LinkedIn**: [Chunyuan(Kyle) Deng](https://www.linkedin.com/in/chunyuan-kyle/)
 
 ### 🌐 Let's Connect!
 
