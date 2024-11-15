@@ -53,6 +53,7 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 - c2c_carpool
 - Lottery
 - News publishing platform
+- Delivery
 - Open AI Robot
 
 ### 🧩 Component Projects
