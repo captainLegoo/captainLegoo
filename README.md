@@ -62,13 +62,8 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 - Dynamic Thread Pool
 - Distributed storage system
 - dRpc
-
-### 🔄 GitHub Activity Graph
-
-<div align="center">
-  <img  width="45%" height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=captainLegoo&custom_title=CaptainLegoo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&bg_color=0,73FA79,73FDFF,D783FF" />
-  <img  width="45%" height="200em" src="https://github-contribution-stats.vercel.app/api/?username=captainLegoo&hide_title=true&hide_border=true&theme=graywhite&count_private=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,D783FF" />
-</div>
+- 
+---
 
 ### 📫 Contact Me
 
@@ -78,7 +73,3 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
 ### 🌐 Let's Connect!
 
 Feel free to reach out to me for collaboration or just a friendly chat about technology and development. I'm always open to new opportunities and connections!
-
----
-
-**⭐️ From [CaptainLegoo](https://github.com/captainLegoo)**
