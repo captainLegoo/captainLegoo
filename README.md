@@ -48,21 +48,6 @@ I'm Kyle, a passionate Full Stack Developer with a knack for crafting elegant so
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainLegoo&hide_title=false&hide_border=true&layout=compact&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF" />
 </div>
 
-### 💼 Business Projects
-- Marketing
-- c2c_carpool
-- Lottery
-- News publishing platform
-- Delivery
-- Open AI Robot
-
-### 🧩 Component Projects
-- Open AI Code Review
-- Monitoring System for Business Process Perspective
-- Dynamic Thread Pool
-- Distributed storage system
-- dRpc
-- 
 ---
 
 ### 📫 Contact Me
